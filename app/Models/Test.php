@@ -11,5 +11,6 @@ class Test extends Model
 
     public function index(){
         return "hbdf hshjf sbhello acuity";
+        
     }
 }
