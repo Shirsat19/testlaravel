@@ -13,6 +13,6 @@
         <form action="\update1\4" method='post'>
             @csrf
             <input type="text" name='name'>
-            <button type='submit'>submit</button>
+            
         </form>
 @endsection
